@@ -1,0 +1,5 @@
+{
+  "name": "MDEET Master",
+  "description": "A comprehensive multiple-choice quiz platform allowing users to manage categories, upload questions via JSON, and take exams with real-time scoring and result analysis.",
+  "requestFramePermissions": []
+}
